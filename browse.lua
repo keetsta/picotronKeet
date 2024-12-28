@@ -1,4 +1,4 @@
---[[pod_format="raw",created="2024-12-28 18:54:09",modified="2024-12-28 19:03:46",revision=4]]
+--[[pod_format="raw",created="2024-12-28 18:54:09",modified="2024-12-28 19:07:07",revision=5]]
 --[[	Thanks for using PicoNet Sitebuilder! I look forward
 	to seeing your picosite! In order to make this available
 	on PicoNet Explorer, you'll need to upload this lua file
@@ -55,7 +55,7 @@
 		cls(7)
 		print("this is keet's\ncool website!\n ",7.0,42.0,30)
 		self.gif3:draw(90.0,46.0,16,16,1,0)
-		rect(0,132,291,172,27)
+		rect(0,131.0,291,171.0,27)
 		print("\n\n\n\nwebring ",134.0,102.0,26)
 		palt(0)
 		palt(0, true)
